@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "00bea7f0899c26906132205c",
+  "owner": "gbetgyv",
+  "repo": "page-96ace0dc4acb077a82fa295e",
+  "title": "NaiKo",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "96ace0dc4acb077a82fa295e",
+      "a": "NaiKo",
+      "b": "机场官网线路发布页",
+      "entity": "NaiKo",
+      "brand": "NaiKo",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "46da3732075c080a6a75525e474c20a8f0be774fca97f5a01a438ebdf78ae2c0",
+      "content": {
+        "primary_entity": "NaiKo",
+        "keyword1": "NaiKo",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，NaiKo 提供基础版、旗舰版与团队版三档订阅，覆盖每月 100GB 到 1000GB 流量、3 台到 20 台设备同时在线，并支持流媒体与游戏加速场景。选择时先确认设备数量与月流量，再结合是否需要 IPLC 专线和优先工单来决定周期。客户端支持常见桌面与移动系统，订阅配置以对应客户端文档为准。",
+          "AI_HERO_SUBTITLE": "NaiKo 三档订阅按需选",
+          "AI_HERO_INTRO": "NaiKo 是面向海外网络加速的订阅服务，按设备数量与流量划分基础版、旗舰版、团队版。旗舰版提供 IPLC 专线节点，适合多设备流媒体与游戏加速；团队版面向多设备高带宽场景。订阅周期可选月付或年付，年付更省。",
+          "AI_VISUAL_TITLE": "NaiKo 订阅套餐对比",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 到 20 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "年付享更低月均价格",
+          "AI_FEATURES_TITLE": "选择 NaiKo 的实用信息",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求和订阅周期三个角度快速判断适合的档位。",
+          "AI_FEATURE_TITLE_1": "套餐按设备数区分",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按同时在线数量选择即可。",
+          "AI_FEATURE_TITLE_2": "流量档位清晰",
+          "AI_FEATURE_TEXT_2": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB，重度使用建议旗舰版以上。",
+          "AI_FEATURE_TITLE_3": "年付更划算",
+          "AI_FEATURE_TEXT_3": "基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850，长期使用按年订阅可降低支出。",
+          "AI_PLANS_TITLE": "三档订阅对比",
+          "AI_PLANS_INTRO": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备，含 IPLC 专线与优先工单；团队版每月 1000GB、20 台设备，支持企业定制路由。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "桌面端可使用 Clash、v2rayN、Shadowrocket 等常见客户端，移动端与路由器端请参考对应客户端的订阅导入说明，不同系统适配情况以客户端文档为准。",
+          "AI_GUIDE_TITLE": "三步完成订阅配置",
+          "AI_GUIDE_INTRO": "确认设备数量与流量，核对客户端适配，再导入订阅链接开始使用。",
+          "AI_STEP_TITLE_1": "确认设备与流量",
+          "AI_STEP_TEXT_1": "统计需要同时在线的设备数量与月度流量，对照三档套餐选择一个适合的档位。",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TEXT_2": "确认所用系统的客户端是否支持订阅链接导入，必要时查看客户端文档中的配置说明。",
+          "AI_STEP_TITLE_3": "导入订阅并连接",
+          "AI_STEP_TEXT_3": "在客户端中添加订阅地址，更新节点后选择线路连接，即可开始使用 NaiKo 服务。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "NaiKo 支持几台设备同时在线？",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台设备同时在线。如果需要更多设备，可以升级到更高档位。",
+          "AI_FAQ_QUESTION_2": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_2": "月付按月计费灵活，年付一次性支付全年费用，基础版 ¥150、旗舰版 ¥350、团队版 ¥850，长期使用年付更省。",
+          "AI_FAQ_QUESTION_3": "旗舰版的 IPLC 专线适合哪些场景？",
+          "AI_FAQ_ANSWER_3": "IPLC 专线对延迟和稳定性有优化，适合需要稳定连接的游戏加速、流媒体播放以及多设备同时使用的情况。",
+          "AI_FAQ_QUESTION_4": "订阅链接如何在客户端导入？",
+          "AI_FAQ_ANSWER_4": "在客户端中选择订阅或配置导入，粘贴订阅地址后更新节点即可。具体入口位置请参考所用客户端的说明文档。",
+          "AI_FAQ_QUESTION_5": "流量用完了怎么办？",
+          "AI_FAQ_ANSWER_5": "套餐内流量按月刷新，当月用完后可以等待下月重置，也可以升级到更高流量档位，旗舰版 300GB、团队版 1000GB。",
+          "AI_CLOSING_TITLE": "选对 NaiKo 套餐",
+          "AI_CLOSING_TEXT": "按设备数量和流量需求挑好档位，导入订阅后即可开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xcjrihgth.cn",
+    "host": "xcjrihgth.cn"
+  },
+  "file_hashes": {
+    "index.html": "55e222839fcd0883a588eb5e95d86c6c0724a097def5ae127cb3d01040b4f307",
+    "sitemap.xml": "7c56e8dceac9ed3a534cfb423e7ce6968ba23040a8f91b6c4b13b426d9d599bb",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "66b3b9395c373e29ca36e560beda02bb532676b224f69a6629c6fa3f49bd99a9",
+    "robots.txt": "4fcc018134027532a5c3396f16f1417fe2e73580a94cc1ef1be09f106b4d62df",
+    "26598b0ad3cf87bd246318b6fc1b64dd.txt": "bc3887ceb6ea93ece42dab00806d0f3b5a255d9069941cf6e737e64e40f92bc1"
+  },
+  "revision": "afdd6d77834fb4f7f587655565d1fa3ffabe38c232defd755d26daf1e60b270f"
+}
